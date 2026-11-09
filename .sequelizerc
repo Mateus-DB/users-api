@@ -1,0 +1,8 @@
+
+const { resolve } = require('node:path')
+
+module.exports = {
+    'config': resolve('src', 'config', 'database-cli.cjs'),
+    'migrations-path': resolve('src', 'database', 'migrations'),
+    'models-path': resolve('src', 'models')
+}
