@@ -202,4 +202,4 @@ As credenciais presentes no ambiente Docker são destinadas exclusivamente ao de
 **Mateus Demartino**
 
 - [LinkedIn](https://www.linkedin.com/in/mateus-demartino)
-- [GitHub](https://www.github.com/MateusDB)
+- [GitHub](https://www.github.com/Mateus-DB)
